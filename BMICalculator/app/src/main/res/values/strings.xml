@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="heightString">Enter your height in meteres:</string>
+    <string name="heightHintText">height in meters (x.xx)</string>
+    <string name="weightString">Enter your weight in kilograms:</string>
+    <string name="buttonCalcString">Calculate BMI</string>
+    <string name="BMIExplainString">Your BMI will be explained here</string>
+    <string name="ImageDesc">Representative picture of BMI</string>
+    <string name="hintForBMINumber">(here goes your BMI value)</string>
+    <string name="hintForBMIText">(here goes your BMI text value)</string>
+    <string name="textForUnderweight">Below a weight considered normal or desirable.</string>
+    <string name="textForNormal">You\'re fine.</string>
+    <string name="textForOverweight">Above a weight considered normal or desirable.</string>
+    <string name="textForObese">Way above a weight considered normal or desirable.</string>
+    <string name="warningForHeight">Please enter supported value for Height (0 to 2.5 meters).</string>
+    <string name="warningForWeight">Please enter supported value for Weight (0 to 350 kilograms).</string>
+    <string name="warningForEmptyInput">Please enter values.</string>
+</resources>
