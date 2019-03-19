@@ -1,0 +1,1 @@
+You can feel free to add, fix or whatever. If you want to install just put .apk file on your phone and install.
